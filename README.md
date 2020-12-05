@@ -1,5 +1,5 @@
 ### Hello lovely people! 
-My name is Nikolina, I am a mommy of two, crazy cat lady, baller, yogi and a bit of a nerd.  
+My name is Nikolina, I am a mommy of two, dog whisperer, baller, yogi and a tad bit of a nerd.  
 Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence and making efforts in shifting my career to IT industry.
 
 
