@@ -1,7 +1,7 @@
 ### Hello lovely people! 
-My name is Nikolina, I am a mommy of two, dog whisperer, baller, yogi and a tad bit of a nerd.
-Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while working as a Linux Support Technician within Security Abuse department of a large web hosting company.. 
-I believe I can do whatever I set my mind on doing and enjoy sharing my experience and knowledge in order to support and possibly inspire others. 
+My name is Nikolina, I am a mom of two, dog lover, baller, yogi and a tad bit of a nerd.
+Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while climbing the ladder in a role of Junior RPA Consultant at Robotiq.ai.
+I believe I can do whatever I set my mind on doing and enjoy sharing my experience and knowledge with others.
 
 
 
