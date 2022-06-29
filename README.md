@@ -1,6 +1,6 @@
 ### Hello lovely people! 
 
-<img src="https://c.tenor.com/FABadXdQ65MAAAAC/hi-hello.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Hi Hello GIF - Hi Hello Wave - Discover &amp; Share GIFs" data-noaft="1" style="width: 410px; height: 220px; margin: 24.7px 0px;">
+<img src="https://66.media.tumblr.com/85649825a5392e8cd3d832a4ed1534f5/tumblr_njpy6zj5by1tq4of6o1_500.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="hello! gifs | WiffleGif" data-noaft="1" style="width: 300px; height: 140px; margin: 14.7px 0px;">
 
 My name is Nikolina, I am a mom of two, dog lover, baller, yogi and a tad bit of a nerd.
 Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while working as an RPA Consultant at Robotiq.ai.
