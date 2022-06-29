@@ -1,5 +1,7 @@
 ### Hello lovely people! 
 
+<img src="https://c.tenor.com/FABadXdQ65MAAAAC/hi-hello.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Hi Hello GIF - Hi Hello Wave - Discover &amp; Share GIFs" data-noaft="1" style="width: 410px; height: 220px; margin: 24.7px 0px;">
+
 My name is Nikolina, I am a mom of two, dog lover, baller, yogi and a tad bit of a nerd.
 Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while working as an RPA Consultant at Robotiq.ai.
 
