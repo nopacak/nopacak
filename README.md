@@ -1,7 +1,8 @@
 ### Hello lovely people! 
+
 My name is Nikolina, I am a mom of two, dog lover, baller, yogi and a tad bit of a nerd.
-Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while climbing the ladder in a role of an RPA Consultant at Robotiq.ai.
-I believe I can do whatever I set my mind on doing and enjoy sharing my experience and knowledge with others.
+Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while working as an RPA Consultant at Robotiq.ai.
+
 
 
 
