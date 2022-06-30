@@ -6,7 +6,7 @@ Currently pursuing BSc Computer Science at Goldsmiths College, University of Lon
 
 At the moment I am learning [TensorFlow](https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLMiywfPyR8tT9-kk6LECyqTxhNqIVwO1NRecsIZnJMN4x_zFeajfMwaAgFJEALw_wcB) and its implementations. Code review, tips and tricks are most welcomed and highly appreciated! 😄
 
-If you're a student or would just like to gain some new skills and/or advance your career, try out [Forage](https://www.theforage.com/?ref=rMbBvgaEiQN6wNNDT) virtual work experience programs, they're completely free! 😊
+If you're a student or would just to gain some new skills and/or advance your career, try out [Forage](https://www.theforage.com/?ref=rMbBvgaEiQN6wNNDT) virtual work experience programs, they're completely free! 😊
 
 ----
 
