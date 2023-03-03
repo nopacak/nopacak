@@ -2,7 +2,7 @@
 
 I'm Nikolina: a mom of two 👩‍👧‍👦, avid traveler ✈️, dog lover 🐶, baller ⛹🏻‍♀️, yogi 🧘🏻‍♀️ and a tad bit of a nerd 🤓.
 
-Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while working as an RPA Developer at [Robotiq.ai](https://robotiq.ai/). Let's connect on [LinkedIn](https://www.linkedin.com/in/nikolina-robotiq/)!
+Currently pursuing BSc Computer Science at Goldsmiths College, University of London with specialization in Machine Learning and Artificial Intelligence while working as an RPA Developer at [Valcon]((https://valcon.com)). Let's connect on [LinkedIn](https://www.linkedin.com/in/nikolina-valcon/)!
 
 At the moment I am learning [TensorFlow](https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLMiywfPyR8tT9-kk6LECyqTxhNqIVwO1NRecsIZnJMN4x_zFeajfMwaAgFJEALw_wcB) and its implementations. Code review, tips and tricks are most welcomed and highly appreciated! 😄
 
