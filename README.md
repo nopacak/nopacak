@@ -8,7 +8,7 @@ At the moment I am learning [TensorFlow](https://www.tensorflow.org/resources/le
 
 ----
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nopacak&layout=compact&theme=cobalt)](https://github.com/nopacak/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nopacak&layout=compact&theme=cobalt)](https://github.com/nopacak/github-readme-stats)
 
 <!--
 **ndoksanovic/ndoksanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
