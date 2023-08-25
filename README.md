@@ -6,6 +6,8 @@ Currently pursuing BSc Computer Science at Goldsmiths College, University of Lon
 
 At the moment I am learning [TensorFlow](https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLMiywfPyR8tT9-kk6LECyqTxhNqIVwO1NRecsIZnJMN4x_zFeajfMwaAgFJEALw_wcB) and its implementations. Code review, tips and tricks are most welcomed and highly appreciated! 😄
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nopacak&layout=compact&theme=cobalt)](https://github.com/nopacak/github-readme-stats)
+
 ----
 <!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nopacak&layout=compact&theme=cobalt)](https://github.com/nopacak/github-readme-stats)
